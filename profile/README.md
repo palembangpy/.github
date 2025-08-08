@@ -68,6 +68,6 @@ Menjadi komunitas Python terbesar dan paling inovatif di Sumatra Selatan.</p>
 
 <p style="display:flex; align-items:center; width:100%; gap:1rem;">
     <a href="https://anymhost.id/" target="_blank" style="background-color:#f1f1f1; padding:0.5rem 1rem; border-radius:.5rem;">
-        <img src="logo-anymhost-new.png" alt="anymhost_logo.png" width="150" />
+        <img src="https://cdn.anymhost.id/logo-anymhost-new.png" alt="anymhost_logo.png" width="150" />
     </a>
 </p>
