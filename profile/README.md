@@ -1,5 +1,5 @@
 <p align="center" style="padding-top:1rem;">
-<img src="logo.png" alt="palembangpy_logo.png" width="250" />
+<img src="https://github.com/palembangpy/.github/raw/main/profile/logo.png" alt="palembangpy_logo.png" width="250" />
 </p>
 
 <h2 style="color:#0099ff;font-weight:700;">Tentang PalembangPy</h2>
@@ -62,12 +62,24 @@ Menjadi komunitas Python terbesar dan paling inovatif di Sumatra Selatan.</p>
 </tr>
 </table>
 
-<h2 style="color:#0099ff;font-weight:700;">Ucapan Terima Kasih</h2>
+<h2 style="color:#0099ff;font-weight:700;">Terima Kasih</h2>
 
-<p align="justify">Terima kasih kepada Sponsor yang telah mensupport seluruh kegiatan komunitas PalembangPy.</p>
+<p style="display:flex; align-items:center; width:100%; gap:1rem;">
+    <a href="https://python.or.id/" target="_blank" style="background-color:#f1f1f1; padding:0.5rem 1rem; border-radius:.5rem;">
+        <img src="https://github.com/palembangpy/.github/raw/main/profile/python_id.png" alt="anymhost_logo.png" width="175" />
+    </a>
+</p>
+
+<p align="justify">Terima kasih kepada Python Indonesia yang telah mendukung kegiatan komunitas PalembangPy.</p>
+
+<!--
+<h2 style="color:#0099ff;font-weight:700;">Sponsor</h2>
+
 
 <p style="display:flex; align-items:center; width:100%; gap:1rem;">
     <a href="https://anymhost.id/" target="_blank" style="background-color:#f1f1f1; padding:0.5rem 1rem; border-radius:.5rem;">
-        <img src="https://cdn.anymhost.id/logo-anymhost-new.png" alt="anymhost_logo.png" width="150" />
+        <img src="https://cdn.anymhost.id/logo-anymhost-new.png" alt="anymhost_logo.png" width="175" />
     </a>
 </p>
+
+<p align="justify">Terima kasih kepada Sponsor yang telah mensupport seluruh kegiatan komunitas PalembangPy.</p> -->
