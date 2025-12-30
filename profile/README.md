@@ -84,4 +84,4 @@ Menjadi komunitas Python terbesar dan paling inovatif di Sumatra Selatan.</p>
 
 <p align="justify">Terima kasih kepada Sponsor yang telah mensupport seluruh kegiatan komunitas PalembangPy.</p> -->
 
-![visitors](https://komarev.com/ghpvc/?username=palembangpy)
+![visitors](https://komarev.com/ghpvc/?username=palembangpydotcom)
